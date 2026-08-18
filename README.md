@@ -27,7 +27,7 @@ A multi-algorithmic framework was evaluated using rigorous 5-fold Stratified Cro
 * **Libraries:** scikit-learn, CatBoost, pandas, matplotlib, seaborn
 * **Preprocessing:** StandardScaler, OneHotEncoder
 
- ** For detailed academic analysis check the Report folder
+ 
 
 ## How to Run Locally
 
@@ -41,3 +41,5 @@ This project uses `Poetry` for dependency management, ensuring a fully reproduci
 2. **Download the Data:**
    Download the "Bank Marketing" dataset from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/222/bank+marketing) and make sure to use **`bank-additional-full.csv`** (the full dataset version used in this project), placing it inside a `data/` directory in the project root.
 
+
+** For detailed academic analysis check the Report/ML_Project_2.pdf
