@@ -42,4 +42,4 @@ This project uses `Poetry` for dependency management, ensuring a fully reproduci
    Download the "Bank Marketing" dataset from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/222/bank+marketing) and make sure to use **`bank-additional-full.csv`** (the full dataset version used in this project), placing it inside a `data/` directory in the project root.
 
 
-** For detailed academic analysis check the **`Report/ML_Project_2.pdf`**
+** For detailed academic analysis check the **`Report/ML_Project.pdf`**
