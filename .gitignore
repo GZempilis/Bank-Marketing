@@ -1,0 +1,18 @@
+# Virtual Environments & Caches
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+catboost_info/
+
+
+data/
+bank+marketing/
+*.csv
+
+
+Proposal/
+Presentation_ML/
+*.zip
+*.pptx
+ML_project_old*.DS_Store
+.DS_Store
