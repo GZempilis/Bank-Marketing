@@ -29,7 +29,7 @@ A multi-algorithmic framework was evaluated using rigorous 5-fold Stratified Cro
 
  ** For detailed academic analysis check the Report folder
 
-How to Run Locally
+## How to Run Locally
 
 This project uses `Poetry` for dependency management, ensuring a fully reproducible environment.
 
@@ -38,5 +38,6 @@ This project uses `Poetry` for dependency management, ensuring a fully reproduci
    git clone [https://github.com/GZempilis/Bank-Marketing.git](https://github.com/GZempilis/Bank-Marketing.git)
    cd Bank-Marketing
 
-
+2. **Download the Data:**
+   Download the "Bank Marketing" dataset from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/222/bank+marketing) and make sure to use **`bank-additional-full.csv`** (the full dataset version used in this project), placing it inside a `data/` directory in the project root.
 
