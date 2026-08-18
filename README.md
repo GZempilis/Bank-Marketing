@@ -27,6 +27,8 @@ Tech Stack
 * **Libraries:** scikit-learn, CatBoost, pandas, matplotlib, seaborn
 * **Preprocessing:** StandardScaler, OneHotEncoder
 
+* Foe detailed academic analysis check the Report folder
+
 How to Run Locally
 
 This project uses `Poetry` for dependency management, ensuring a fully reproducible environment.
@@ -35,3 +37,6 @@ This project uses `Poetry` for dependency management, ensuring a fully reproduci
    ```bash
    git clone [https://github.com/GZempilis/Bank-Marketing.git](https://github.com/GZempilis/Bank-Marketing.git)
    cd Bank-Marketing
+
+
+
