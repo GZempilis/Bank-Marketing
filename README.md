@@ -37,9 +37,21 @@ This project uses `Poetry` for dependency management, ensuring a fully reproduci
    ```bash
    git clone [https://github.com/GZempilis/Bank-Marketing.git](https://github.com/GZempilis/Bank-Marketing.git)
    cd Bank-Marketing
+   ```
 
-2. **Download the Data:**
+2. **Set Up the Environment:**
+   If you don't have Poetry installed, you can install it via **`pip install poetry`**.
+To automatically create the virtual environment and download all required dependencies defined in the **`pyproject.toml`**, simply run:
+```bash
+poetry install
+```
+3. **Activate the Environment**
+   To enter the newly created virtual environment, use:
+   ```bash
+   poetry shell
+   ```
+
+4. **Download the Data:**
    Download the "Bank Marketing" dataset from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/222/bank+marketing) and make sure to use **`bank-additional-full.csv`** (the full dataset version used in this project), placing it inside a `data/` directory in the project root.
-
 
 ** For detailed academic analysis check the **`Report/ML_Project.pdf`**
