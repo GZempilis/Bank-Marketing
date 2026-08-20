@@ -41,10 +41,10 @@ This project uses `Poetry` for dependency management, ensuring a fully reproduci
 
 2. **Set Up the Environment:**
    If you don't have Poetry installed, you can install it via **`pip install poetry`**.
-To automatically create the virtual environment and download all required dependencies defined in the **`pyproject.toml`**, simply run:
-```bash
-poetry install
-```
+   To automatically create the virtual environment and download all required dependencies defined in the **`pyproject.toml`**, simply run:
+   ```bash
+   poetry install
+   ```
 3. **Activate the Environment**
    To enter the newly created virtual environment, use:
    ```bash
