@@ -22,7 +22,7 @@ A multi-algorithmic framework was evaluated using rigorous 5-fold Stratified Cro
 
 | Contacted Sample | Paper's NN Recall | CatBoost Recall | Absolute Improvement |
 | :--- | :--- | :--- | :--- |
-| **Top 10%** | 19.2% | **48.3%** | +29.1% |
+| **Top 10%** | 19.2% | **48.3%** | **+29.1%** |
 | **Top 20%** | 35.6% | **67.5%** | +31.9% |
 | **Top 50%** | 78.9% | **84.3%** | +5.4% |
 * **Key Drivers:** Euribor 3m Rate, Education, and Campaign intensity emerged as the most critical predictors.
